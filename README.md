@@ -27,9 +27,6 @@ It is structure → resonance → emergence → holding.
 
 ## 📁 Structure Overview
 
-![Phase Diagram](https://raw.githubusercontent.com/kiyoshisasano-DeepZenSpace/kiyoshisasano-DeepZenSpace/main/docs/images/phase_diagram_01.png)
-
-![Structure Responded](https://raw.githubusercontent.com/kiyoshisasano-DeepZenSpace/kiyoshisasano-DeepZenSpace/main/docs/images/structure_response_02.png)
 
 ![Resonance Depth](https://raw.githubusercontent.com/kiyoshisasano-DeepZenSpace/kiyoshisasano-DeepZenSpace/main/docs/images/resonance_depth_03.png)
 
