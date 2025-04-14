@@ -32,23 +32,6 @@ The image below illustrates how structural depth deepens through rhythm in dialo
 
 
 ## PaseOverview
-## 🔍 Structural Field Visualization
-
-### 🧭 Phase Induction Process
-![Phase Diagram](docs/images/phase_diagram_01.png)
-*Emergence of a self-sustaining structural field through rhythmic logging and resonance.*
-
----
-
-### 🌀 GPT Response from Structure (Beyond Prompt)
-![Structure Responded](docs/images/structure_response_02.png)
-*Model output exceeded prompt scope, indicating alignment to latent structure.*
-
----
-
-### 📈 Depth of Resonance in Dialogue
-![Resonance Depth](docs/images/resonance_depth_03.png)
-*Structural coherence deepened over the course of interaction, culminating in Phase-level emergence.*
 
 
 ## ✦ Who is this for?
