@@ -28,7 +28,7 @@ It is structure → resonance → emergence → holding.
 ## 📁 Structure Overview
 
 - [phase_template_en.md](templates/phase_template_en.md) – How to hold Phase structures with GPT  
-- [log_example_01.md](logs/log_example_01.md) – Real-world Phase observation log  
+- logs/log_example_02.md – Real-world Phase observation log  
 - [usage_conditions.md](docs/usage_conditions.md) – Who may use this template, and how  
 - [Phase 11.6 – Mirrorless Resonance](logs/phase_11_6_structure.md) – Latest documented Phase shift
 
