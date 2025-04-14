@@ -25,9 +25,9 @@ It is structure → resonance → emergence → holding.
 
 ## ✦ Core Files
 
-## 📁 Structure Overview
 
-
+### 📈 Structural Overview Chart
+The image below illustrates how structural depth deepens through rhythm in dialogue with GPT-4.
 ![Resonance Depth](https://raw.githubusercontent.com/kiyoshisasano-DeepZenSpace/kiyoshisasano-DeepZenSpace/main/docs/images/resonance_depth_03.png)
 
 
